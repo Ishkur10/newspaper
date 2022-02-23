@@ -1,0 +1,144 @@
+#imagen2 {
+  background-color: black;
+
+  width: 200px;
+  height: 200px;
+
+  float: left;
+  width: 33%;
+}
+
+#imagen1 {
+  background-color: black;
+
+  width: 200px;
+  height: 200px;
+
+  float: left;
+  width: 33%;
+}
+
+h1 {
+  text-align: center;
+}
+#middle {
+  text-align: center;
+  vertical-align: middle;
+  width: 33%;
+  float: left;
+  height: 200px;
+}
+
+#barra {
+  clear: both;
+}
+.primero {
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.segundo {
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tercero {
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.cuarto {
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.image {
+  background-color: black;
+  clear: both;
+  /* width: 60%; */
+  height: 220px;
+  margin-top: 20px;
+}
+.content {
+  margin-left: 16px;
+}
+.botoncito {
+  background-color: green;
+  height: 24px;
+  width: 200px;
+  margin-top: 20px;
+  border-radius: 16px;
+  clear: both;
+}
+
+.texto1 {
+  width: 45%;
+  clear: both;
+}
+
+.texto2 {
+  float: right;
+  width: 50%;
+}
+
+.smallArticle {
+  display: flex;
+  align-items: center;
+  padding: 0px 8px;
+}
+
+.articulo1 {
+  background-color: black;
+  height: 48px;
+  width: 50%;
+  float: left;
+  margin-right: 8px;
+}
+.articulo2 {
+  background-color: black;
+  width: 30%;
+  height: 50px;
+  margin-top: 20px;
+  display: flex;
+}
+.articulo3 {
+  background-color: black;
+  width: 30%;
+  height: 50px;
+  margin-top: 20px;
+  display: flex;
+}
+
+#bottom {
+  clear: both;
+  margin-top: 20px;
+}
+
+#segundaseccion .left {
+  float: left;
+  width: 50%;
+}
+
+#segundaseccion .right {
+  float: right;
+  width: 50%;
+}
+
+hr {
+    clear: left;
+}
+
+.smallArticle1 {
+  display: flex;
+  align-items: center;
+  padding: 0px 8px;
+}
+
+.texto21 {
+display: flex;
+}
